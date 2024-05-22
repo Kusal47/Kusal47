@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Kusal47
+- 👋 Hi, I’m @Kusal
 
