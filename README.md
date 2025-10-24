@@ -58,7 +58,8 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 ### 📈 Most Used Languages:
 
-  <img alt="Kusal's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=light">
+  <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=light">
+
 
 
 
