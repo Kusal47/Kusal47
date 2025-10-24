@@ -4,7 +4,7 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
  ### 💫 About Me:
 - 💼 Currently working as a **Flutter Developer**
 - 🌱 Learning **Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook**
-- 👨‍💻 All of my projects are available at https://github.com/Kusal47
+- 👨‍💻 All of my projects are available at https://www.aryalkushal.com.np/ (Under Construction)
 - 💬 Ask me about **Flutter, Dart, Firebase, Python (basics), and API integration**
 - 📫 Reach me at kusalaryal47@gmail.com
 - ⚡ Fun fact: I enjoy building apps that make life easier 🚀
