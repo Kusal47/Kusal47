@@ -60,7 +60,7 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=tokyonight">
-  <img alt="Kusal's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=transparent">
+  <img alt="Kusal's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=transparent">
 </picture>
 
 <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight" alt="Kusal47" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Kusal47&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a> -->
