@@ -14,7 +14,7 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 <a href="https://twitter.com/Kusal790133511" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kusal790133511" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/kusal-aryal-9639a6299" rel="nofollow">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/kusal-aryal-9639a6299" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
 </a>
