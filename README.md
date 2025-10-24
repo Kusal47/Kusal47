@@ -10,15 +10,14 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 - ⚡ Fun fact: I enjoy building apps that make life easier 🚀
 
 
-### Connect with me:
 ### 🌐 Connect with me:
 
 <a href="https://twitter.com/Kusal790133511" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a
 <a href="https://linkedin.com/in/kusal-aryal-9639a6299" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.instagram.com/kusal__aryal/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="filter: invert(48%) sepia(80%) saturate(400%) hue-rotate(310deg) brightness(100%) contrast(97%);"/>
 </a>
@@ -58,4 +57,4 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 ### 📈 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyoday)
