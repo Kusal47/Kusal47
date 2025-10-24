@@ -1,5 +1,9 @@
-# Hi 👋, I'm Kushal Aryal  
-A passionate **Flutter Developer** from Nepal 🇳🇵  
+# Hi 🧑‍💻, I'm **Kushal Aryal**  
+### A dedicated **Flutter Developer** crafting smooth mobile experiences 🚀  
+
+🔹 From concept to code — I specialize in building scalable apps with **Flutter, Dart, and Firebase**.  
+🔹 Based in **Nepal 🇳🇵**, passionate about clean architecture and continuous learning.
+
 
  ### 💫 About Me:
 - 💼 Currently working as a **Flutter Developer**
