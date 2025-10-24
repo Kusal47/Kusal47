@@ -26,31 +26,31 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 ### 🛠️ Languages and Tools:
 
-<a href="https://flutter.dev/" target="_blank" style="text-decoration: none;">
+<a href="https://flutter.dev/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </a>
-<a href="https://dart.dev/" target="_blank" style="text-decoration: none;">
+<a href="https://dart.dev/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40"/>
 </a>
-<a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
+<a href="https://www.python.org/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" style="text-decoration: none;">
+<a href="https://pandas.pydata.org/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </a>
-<a href="https://numpy.org/" target="_blank" style="text-decoration: none;">
+<a href="https://numpy.org/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 </a>
-<a href="https://jupyter.org/" target="_blank" style="text-decoration: none;">
+<a href="https://jupyter.org/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank" style="text-decoration: none;">
+<a href="https://firebase.google.com/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
 </a>
-<a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+<a href="https://git-scm.com/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+<a href="https://code.visualstudio.com/" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
 
@@ -58,4 +58,4 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 ### 📈 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyoday)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyolight)
