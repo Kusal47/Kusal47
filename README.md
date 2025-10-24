@@ -8,11 +8,11 @@
  ### 💫 About Me:
 - 💼 Currently working as a **Flutter Developer**
 - 🌱 Learning **Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook**
-- 👨‍💻 All of my projects are available at https://www.aryalkushal.com.np/ (Under Construction)
 - 💬 Ask me about **Flutter, Dart, Firebase, Python (basics), and API integration**
 - 📫 Reach me at kusalaryal47@gmail.com
 - ⚡ Fun fact: I enjoy building apps that make life easier 🚀
 
+  
 ### 🌐 Connect with me:
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>](https://twitter.com/Kusal790133511) &nbsp;&nbsp;
@@ -43,5 +43,6 @@
 
 
 
-
+<!-- 
+- 👨‍💻 All of my projects are available at https://www.aryalkushal.com.np/ (Under Construction) -->
 <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight" alt="Kusal47" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Kusal47&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;"></a> -->
