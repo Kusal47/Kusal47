@@ -7,9 +7,11 @@ A passionate Flutter Developer from Nepal.
 - 📫 How to reach me: kusalaryal47@gmail.com
 
 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/kusal-aryal-9639a6299)
 
 🛠️ Languages and Tools:
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
@@ -19,6 +21,7 @@ Connect with me:
 
 
 📊 GitHub Stats
+
 ![Kusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusal47&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight)
-![Kusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kusal47&show_icons=true&theme=tokyonight)
