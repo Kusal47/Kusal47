@@ -16,9 +16,9 @@ A passionate Flutter Developer from Nepal.
 
 Connect with me:
 
-linkedin.com/in/kusal-aryal-9639a6299
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/kusal__aryal/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Kusal790133511)
+https://linkedin.com/in/https://www.linkedin.com/in/kusal-aryal-9639a6299
+https://instagram.com/https://www.instagram.com/kusal__aryal/
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg(https://twitter.com/Kusal790133511)
 
 🛠️ Languages and Tools:
 
