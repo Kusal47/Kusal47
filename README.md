@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kusal Aryal  
+# Hi 👋, I'm Kushal Aryal  
 A passionate **Flutter Developer** from Nepal 🇳🇵  
 
  💫 About Me:
@@ -27,4 +27,4 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 📈 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight)
