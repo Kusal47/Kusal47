@@ -13,11 +13,11 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 ### 🌐 Connect with me:
 
 <a href="https://twitter.com/Kusal790133511" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
-</a><a href="https://linkedin.com/in/kusal-aryal-9639a6299" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a><a href="https://www.instagram.com/kusal__aryal/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="filter: invert(48%) sepia(80%) saturate(400%) hue-rotate(310deg) brightness(100%) contrast(97%);"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" width="40" height="40"/>
+</a> <a href="https://linkedin.com/in/kusal-aryal-9639a6299" target="_blank">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" width="40" height="40"/>
+</a> <a href="https://www.instagram.com/kusal__aryal/" target="_blank">
+  <img src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" width="40" height="40"/>
 </a>
 
 
