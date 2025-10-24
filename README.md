@@ -12,14 +12,14 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 
 ### 🌐 Connect with me:
 
-<a href="https://twitter.com/Kusal790133511" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
+<a href="https://twitter.com/Kusal790133511" target="_blank" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishekthapa09" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
 </a>
-<a href="https://linkedin.com/in/kusal-aryal-9639a6299" target="_blank" style="text-decoration: none;">
-  <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg" width="40" height="40"/>
+<a href="https://linkedin.com/in/kusal-aryal-9639a6299" target="_blank" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhishekthapa09" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
 </a>
-<a href="https://www.instagram.com/kusal__aryal/" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
+<a href="https://www.instagram.com/kusal__aryal/" target="_blank" rel="nofollow">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aabishek_/" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;">
 </a>
 
 
