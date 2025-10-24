@@ -59,7 +59,7 @@ A passionate **Flutter Developer** from Nepal 🇳🇵
 ### 📈 Most Used Languages:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalaryal&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=tokyonight">
   <img alt="Kusal's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusal47&layout=compact&theme=light">
 </picture>
 
