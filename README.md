@@ -7,7 +7,7 @@
 
  ### 💫 About Me:
 - 💼 Currently working as a **Flutter Developer**
-- 🌱 Learning **Python, Pandas, NumPy, Matplotlib, and Jupyter Notebook**
+- 🌱 Learning **Python, Pandas, NumPy, Matplotlib, Sklearn and Jupyter Notebook**
 - 💬 Ask me about **Flutter, Dart, Firebase, Python (basics), and API integration**
 - 📫 Reach me at kusalaryal47@gmail.com
 - ⚡ Fun fact: I enjoy building apps that make life easier 🚀
